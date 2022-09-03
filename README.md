@@ -21,7 +21,7 @@ This project is to analyze and study Unicorn companies dataset to have a full in
 - Which Industry do Most Unicorns Belong?
 
 ## File Description:
-There is 1 notebook (Unicorns_companies.py) to provide answers to the above questions.
+There is 1 notebook (Unicorns_companies.py) to provide answers to the above questions.Also you can find the dataset in CSV format.
 
 ## Results:
 
