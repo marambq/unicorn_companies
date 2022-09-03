@@ -25,10 +25,10 @@ There is 1 notebook (Unicorns_companies.py) to provide answers to the above ques
 
 ## Results:
 
-The main findings of the code can be found at the post available [here](https://learn.udacity.com/nanodegrees/nd025/parts/cd0017/lessons/518a1e95-7ea4-474a-a4a1-1626a5880ebc/concepts/55e5199f-e89f-4aaa-ac6d-e80781bb4053).
+The main findings of the code can be found at the post available [here](https://medium.com/@marambalqahtani/unicorns-are-real-3bebf3fcb80f).
 
 
 ## Licensing and Acknowledgements:
-you can find all information and license for using the data at Kaggle [here](https://www.kaggle.com/datasets/deepcontractor/unicorn-companies-dataset).
+You can find all information and license for using the data at Kaggle [here](https://www.kaggle.com/datasets/deepcontractor/unicorn-companies-dataset).
 other than that the code is yours!
 
